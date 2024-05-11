@@ -26,3 +26,7 @@ Recommendation systems are ubiquitous in our digital lives, guiding us through a
 10. **Bandit Algorithms:** These algorithms balance exploration (trying new recommendations to learn user preferences) and exploitation (recommending items with high predicted utility) to maximize long-term reward.
 
 Each method has its strengths and weaknesses, and the choice of method depends on factors like the type of items being recommended, available data, computational resources, and the specific requirements of the application. By leveraging these diverse approaches, recommendation systems strive to deliver personalized and engaging experiences to users across various platforms and domains.
+
+• **Datasets
+- **(https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings)
+- **(https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
